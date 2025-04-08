@@ -1,14 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luiz</h2>
-
-###
-
-<div align="center">
-  <img height="150" src="![fractal-julia-set](https://github.com/user-attachments/assets/830fa614-379c-43d6-945f-1699574819ac)
-"  />
-</div>
-
-
-###
+<h2 align="left">Welcome!</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
