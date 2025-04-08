@@ -3,8 +3,10 @@
 ###
 
 <div align="center">
-  <img height="150" src="[https://tenor.com/pt-BR/view/fractal-julia-set-gif-26047606](https://preview.redd.it/1920x1080-julia-sets-v0-epho2doedmwa1.png?width=1920&format=png&auto=webp&s=eccdf4051d2ffada48fba132809b1cccb260d2db)"  />
+  <img height="150" src="![fractal-julia-set](https://github.com/user-attachments/assets/830fa614-379c-43d6-945f-1699574819ac)
+"  />
 </div>
+
 
 ###
 
